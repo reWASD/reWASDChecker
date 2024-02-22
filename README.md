@@ -13,5 +13,5 @@ The source code can be fully adapted to suit individual needs.
 
 ## Requirements
 
-* Visual Studio 2023
+* Visual Studio 2022
 * reWASD 7.1 or higher
